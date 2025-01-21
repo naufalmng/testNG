@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6255fdc7-cc5c-4e7b-8e87-c5054177c04e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/belajar/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/belajar/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/belajar/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +41,10 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;TestNG.C:/Documents C/Bootcamp QA/projects/BelajarTestNG/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.CalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20250117_0000&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20250120_0000&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;TestNG&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -150,6 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737115608393</updated>
       <workItem from="1737115609429" duration="4125000" />
+      <workItem from="1737371263644" duration="783000" />
     </task>
     <servers />
   </component>

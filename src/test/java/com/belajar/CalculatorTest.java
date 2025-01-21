@@ -17,21 +17,25 @@ public class CalculatorTest {
 
     @Test
     public void testSubstract() {
-        assertEquals(calculator.subtract(1, 2), -1);
+        int expectedResult = -1;
+        assertEquals(calculator.subtract(1, 2), expectedResult);
     }
 
     @Test
     public void testMultiply() {
-        assertEquals(calculator.multiply(1, 2), 2);
+        int expectedResult = 2;
+        assertEquals(calculator.multiply(1, 2), expectedResult);
     }
 
     @Test
     public void testDivide() {
-        assertEquals(calculator.divide(1, 2), 0);
+        int expectedResult = 0;
+        assertEquals(calculator.divide(1, 2), expectedResult);
     }
 
     @Test
     public void testModulus() {
-        assertEquals(calculator.modulus(1, 2), 1);
+        int expectedResult = 1;
+        assertEquals(calculator.modulus(1, 2), expectedResult);
     }
 }
